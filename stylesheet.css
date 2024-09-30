@@ -1,0 +1,173 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#ff1 {
+    text-align: center;
+    background-color: darkblue;
+    padding: 70px;
+    color: aliceblue;
+
+}
+
+.nav {
+    padding-top: 30%;
+    padding-bottom: 20%;
+}
+
+.navigation {
+    padding-top: 5%;
+    padding-bottom: 30%;
+}
+
+.aside {
+    background-color: rgb(248, 222, 188);
+    float: left;
+    width: 20%;
+    margin: 0%;
+    height: fit-content;
+    text-align: center;
+    padding-bottom: 20%;
+    padding-top: 10%;
+    font-size: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+a :hover {
+    color: rgb(17, 1, 32);
+}
+
+.main {
+
+
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    box-shadow: 50px 50px 40px rgba(0, 0, 0, 0.3);
+    border: 1px solid#888888;
+    border-radius: 10px;
+    margin: 20px 20px;
+
+}
+
+.wff {
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.wff1 {
+    padding-top: 50px;
+    font-size: 30px;
+    padding-left: 60px;
+}
+
+.pp {
+    padding-left: 30px;
+}
+
+.input {
+    padding-left: 15px;
+    margin-left: 20px;
+    border-style: solid;
+}
+
+.inputs {
+    padding-left: 15px;
+    margin-left: 35px;
+    border-style: solid;
+}
+
+.username {
+    font-size: 20px;
+}
+
+.password {
+    font-size: 20px;
+}
+
+.submit {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-origin: padding-box;
+    border-color: brown;
+    margin-left: 40px;
+}
+
+.reset {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-origin: padding-box;
+    border-color: brown;
+    margin-left: 100px;
+}
+
+
+.foot {
+    padding-bottom: 2px;
+    padding-top: 30%;
+}
+
+
+.i1 {
+    padding-left: 5px;
+    margin-left: 5px;
+    border-style: solid;
+}
+
+.i2 {
+    padding-left: 5px;
+    margin-left: 5px;
+    border-style: solid;
+}
+
+.registration {
+    padding: 0%;
+    margin: 0%;
+}
+
+.sirname {
+    margin-left: 10px;
+}
+
+.lastname {
+    margin-left: 37px;
+}
+
+.city {
+    margin-left: 58px;
+}
+
+.zipcode {
+    margin-left: 75px;
+}
+
+.nominee {
+    margin-left: 13px;
+}
+
+.gender {
+    margin-left: 40px;
+}
+
+.openingdate {
+    margin-left: 18px;
+}
+
+.i3 {
+    margin-left: 40px;
+    border-style: solid;
+}
